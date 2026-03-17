@@ -1,0 +1,4 @@
+# Dependencias necesarias para ejecutar el proyecto
+numpy>=1.21.0
+matplotlib>=3.4.0
+scikit-fuzzy>=0.4.2

@@ -1,0 +1,15 @@
+RESULTADOS DEL ANÁLISIS DE LA RED DE AMISTADES
+Número de vértices (n): 10
+Número de aristas (m): 20
+
+Grados de cada vértice:
+Mateo: 4
+Marcos: 4
+Juan: 4
+Lucas: 4
+Santiago: 4
+Miguel: 4
+Jesús: 4
+Cristian: 5
+Daniel: 4
+Esteban: 3
