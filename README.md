@@ -17,7 +17,7 @@ The projects are structured as independent modules (`Practica1` through `Practic
 
 The repository is organized into the following structure:
 
-
+```
 PRACTICAS_PSA-MAIN/
 ├── PIA/                         # Final Capstone: Adaptive PSO System
 │   ├── controlador_difuso.py    # Fuzzy logic controller implementation
@@ -37,6 +37,7 @@ PRACTICAS_PSA-MAIN/
 │   └── practica3.py             # K-Means clustering from scratch
 └── Practica4/                   # Multi-Agent Auction System
     └── practica4.py             # Agent-based economic simulation
+```
 
 
 ## 🚀 Module Breakdown & Technical Deep Dive
