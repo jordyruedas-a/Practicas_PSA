@@ -1,9 +1,4 @@
-# PRACTICAS_PSA-MAIN: Multi-Module Adaptive Systems & AI Engineering Portfolio
-
-**Author:** Jordan Emanuel Ruedas Vázquez  
-**Last Updated:** June 2026  
-**Language:** Python 3.9+  
-**Core Technologies:** NumPy, Matplotlib, scikit-fuzzy, Tkinter, Browser Extensions (Manifest V2), Google Gemini API.
+# PRACTICAS_PSA
 
 
 ## 📋 Executive Summary
